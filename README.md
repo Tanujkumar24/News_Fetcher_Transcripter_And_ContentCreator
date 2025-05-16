@@ -97,7 +97,48 @@ graph TD
 - **Environment Variables or `.env` file** can be used for better security and management.
 
 ---
+## 🚀 MCP Setup with UV
 
+### Project Initialization (UV-managed):
+
+```bash
+uv init mcp-server-demo
+cd mcp-server-demo
+uv add "mcp[cli]"
+```
+
+### Alternatively (pip install):
+
+```bash
+pip install "mcp[cli]"
+```
+
+### Running MCP Tools:
+
+To run the `mcp` command with UV:
+
+```bash
+uv run mcp
+```
+
+Install the server in Claude Desktop and run it:
+
+[Download Claude](https://claude.ai/download)
+
+```bash
+mcp install main.py
+```
+
+Test it with MCP Inspector:
+
+```bash
+mcp dev main.py
+```
+
+**Alternate Inspector Command (used during recording):**
+
+```bash
+npx @modelcontextprotocol/inspector python main.py
 ## ▶️ Running the Application
 
 ```bash

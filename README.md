@@ -58,6 +58,12 @@ graph TD
 5. **Output**: Results are displayed in the Streamlit interface and optionally saved/exported.
 
 ---
+## Screeshots
+![news fetcher](https://github.com/Tanujkumar24/News_Fetcher_Transcripter_And_ContentCreator/blob/master/news_fetcher.png)
+![transcripter](https://github.com/Tanujkumar24/News_Fetcher_Transcripter_And_ContentCreator/blob/master/trascript.png)
+![code1](https://github.com/Tanujkumar24/News_Fetcher_Transcripter_And_ContentCreator/blob/master/code1.png)
+![code2](https://github.com/Tanujkumar24/News_Fetcher_Transcripter_And_ContentCreator/blob/master/code2.png)
+![code3](https://github.com/Tanujkumar24/News_Fetcher_Transcripter_And_ContentCreator/blob/master/code3.png)
 
 ## 🛠️ Installation
 
